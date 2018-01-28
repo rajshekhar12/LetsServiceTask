@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LetsServiceTask</string>
+    <string name="google_maps_key">AIzaSyCqUCmNQbcxqmRwpoWYlJYvv-B9_pOE2xg</string>
+    <string name="default_set">Default</string>
+</resources>
